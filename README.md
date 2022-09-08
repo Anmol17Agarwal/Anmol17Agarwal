@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently Working as a Game Dev Trainee
-- 📫 E-Mail: tusharsaxena771@gmail.com
+- 🌱 I’m currently Working as a Software Developer - Project Delivery
+- 📫 E-Mail: anmol17agarwal@gmail.com
 <br/><br/>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0124hitesh&theme=tokyonight)<br/>-->
 ## Git Status
 
-![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tusharsaxena290&layout=compact,issues&theme=tokyonight)
+![languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anmol17Agarwal&layout=compact,issues&theme=tokyonight)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tusharsaxena290&show_icons=true&theme=tokyonight)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharsaxena290&count_private=true&theme=tokyonight)<br/>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anmol17Agarwal&show_icons=true&theme=tokyonight)<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmol17Agarwal&count_private=true&theme=tokyonight)<br/>
 
