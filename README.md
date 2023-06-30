@@ -1,10 +1,12 @@
 <!--![Banner](Banner.png)-->
 
 <h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Anmol Agarwal</a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
-
+<h3 align="left">Connect with me:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
 <a href="https://github.com/Anmol17Agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vaibhav2002" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwzjfpcb6lineguo2tb5moq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwzjfpcb6lineguo2tb5moq" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_anmol_17/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_anmol_17/?hl=en" height="30" width="40" /></a>
 <!-- <a href="https://auth.geeksforgeeks.org/user/vaibhav02/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vaibhav02" height="30" width="40" /></a>
 <a href="https://leetcode.com/vaibhav_jaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/vaibhav2511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhav2511" height="30" width="40" /></a> -->
