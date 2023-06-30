@@ -1,6 +1,6 @@
 <!--![Banner](Banner.png)-->
 
-<h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Anmol Agarwal</a> </h1>
+<h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Anmol Agarwal</a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
