@@ -73,4 +73,6 @@ JSON             40 mins         ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+[![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
