@@ -1,7 +1,7 @@
 <!--![Banner](Banner.png)-->
 
-<h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Anmol Agarwal</a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello World! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Anmol Agarwal</a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
+<h3 align="center">Connect with me:</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
 <a href="https://github.com/Anmol17Agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vaibhav2002" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 - 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.
 - 📚 I’m currently learning everything about Python and Nodejs.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to chill during free time.
+- ⚡ Fun fact: Life is directed by Robert B. Weide
 <br>
 
 ---
