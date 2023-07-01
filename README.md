@@ -24,6 +24,7 @@
 
 - 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.
 - 📚 I’m currently learning everything about Python and Nodejs.
+- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: Life is directed by Robert B. Weide
 <br>
@@ -50,7 +51,7 @@
 <h2 align="center"> Github Statistics 📈</h2>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anmol17Agarwal&theme=dark&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anmol17Agarwal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800%22%20alt=%22Anmol17Agarwal%27s%20Github%20Stats%22%20width=%2260%">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol17Agarwal&layout=compact&theme=dark&hide_border=true" />
@@ -78,3 +79,5 @@ JSON             40 mins         ░░░░░░░░░░░░░░░�
 [![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
