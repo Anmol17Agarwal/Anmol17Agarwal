@@ -23,7 +23,7 @@
 ## I'm a Software Engineer and Engineering Student  
 
 - 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.
-- 📚 I’m currently learning everything about Python and Nodejs.
+- 📚 I’m currently learning everything about Python and Nodejs and DevOps.
 - 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: Life is directed by Robert B. Weide
