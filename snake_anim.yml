@@ -3,9 +3,9 @@ name: Contribution snake
 
 on:
   push:
-    branches: [ main ]
+    branches: github_snake
   pull_request:
-    branches: [ main ]
+    branches: main
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
@@ -13,7 +13,7 @@ on:
 jobs:
   build:
     name: Jobs to update snake grid
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - uses: Platane/snk@master
         id: snake-gif
@@ -26,4 +26,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
