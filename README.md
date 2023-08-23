@@ -2,7 +2,7 @@
 <a href='https://vaibhavjaiswal.vercel.app/#/'>-->
 <h1 align="center">Hello World! I'm Anmol Agarwal ♎ </a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
 <h1 align="center">From India  </a><img src="https://github.com/Anmol17Agarwal/Anmol17Agarwal/blob/main/Indian%20Flag%20waving%20animation%20free%20download.gif" width="32"> </h1>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3><br></br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
 <a href="https://github.com/Anmol17Agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vaibhav2002" height="30" width="40" /></a>
@@ -17,29 +17,29 @@
 
 ## I'm a Software Engineer and Engineering Student  
 
-- 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.
-- 📚 I’m currently learning everything about Python and Nodejs and DevOps.
-- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: Life is directed by Robert B. Weide
+- 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.<br></br>
+- 📚 I’m currently learning everything about Python and Nodejs and DevOps.<br></br>
+- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)<br></br>
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br></br>
+- ⚡ Fun fact: Life is directed by Robert B. Weide<br></br>
 <br>
 
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,python,html,css,androidstudio,spring,selenium)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,python,html,css,androidstudio,spring,selenium)](https://skillicons.dev)<br></br>
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,nodejs)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,nodejs)](https://skillicons.dev)<br></br>
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)<br></br>
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=raspberrypi,androidstudio,idea,vscode,git,github,arduino,postman)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=raspberrypi,androidstudio,idea,vscode,git,github,arduino,postman)](https://skillicons.dev)<br></br>
 
 ### Socials
-[![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)
+[![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)<br></br>
 ---
 
 <br/>
