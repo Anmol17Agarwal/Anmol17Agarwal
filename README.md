@@ -43,61 +43,46 @@
 ---
 
 <br/>
-<h2 align="center"> Github Statistics 📈</h2>
-
----
+<h2> Github Statistics 📈</h2>
  
-GridOutput
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align = "center"> 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anmol17Agarwal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800%22%20alt=%22Anmol17Agarwal%27s%20Github%20Stats%22%20width=%2260%">
- 
+ </p><br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol17Agarwal&layout=compact&theme=dark&hide_border=true" />
 <a> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<p align = "center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anmol17Agarwal&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800%22%20alt=%22Anmol17Agarwal%27s%20Github%20Stats%22%20width=%2260%">
-</p>
-
----
+</p><br></br>
 
 <p align = "center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol17Agarwal&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-<p align = "center" href="https://github.com/anuraghazra/github-readme-stats">
-
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Anmol17Agarwal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p><br><br>
 
 ---
-
 <p align = left>
  <h2>📆 From: 30 April 2023 - To: 23 August 2023 📆<h2>
 
 <h2>🕑 Total Time 🕑 : 32 hrs 23 mins 🔥</h2> 
-   
-  Java📔
+   <br></br>
+  <h3>Java📔</h3>
    
   28 hrs 11 mins  ██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒   49.08 %
-
-  Kotlin📘
+<br></br>
+  <h3>Kotlin📘</h3>
 
   1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░░░   25.20 %
-
-  JavaScript📕
+<br></br>
+  <h3>JavaScript📕</h3>
 
   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-
-  HTML & CSS📓
+<br></br>
+  <h3>HTML & CSS📓</h3>
 
   40 mins         ███░░░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-
-  Python📗
+<br></br>
+  <h3>Python📗</h3>
 
   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 
