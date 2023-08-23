@@ -1,7 +1,7 @@
 <!--![Banner](Banner.png)
 <a href='https://vaibhavjaiswal.vercel.app/#/'>-->
-<h1 align="center">Hello World! I'm Anmol Agarwal ♎ </a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
-<h1 align="center">From India  </a><img src="https://github.com/Anmol17Agarwal/Anmol17Agarwal/blob/main/Indian%20Flag%20waving%20animation%20free%20download.gif" width="32"> </h1>
+<h1 align="center">Hello World! I'm Anmol Agarwal ♎ <img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
+<h1 align="center">From India 🕉️</h1>
 <h3 align="center">Connect with me:</h3><br></br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
