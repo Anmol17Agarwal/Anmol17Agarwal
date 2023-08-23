@@ -14,31 +14,36 @@
 <br/>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Software Engineer and Engineering Student  
+<h4> I'm a Software Engineer and Engineering Student  
 
-- 👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.<br/>
-- 📚 I’m currently learning everything about Python and Nodejs and DevOps.<br/>
-- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)<br/>
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
-- ⚡ Fun fact: Life is directed by Robert B. Weide<br/>
+- <h4>👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.<br/>
+- <h4>📚 I’m currently learning everything about Python and Nodejs and DevOps.<br/>
+- #### 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)<br/>
+- <h4>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
+- <h4>⚡ Fun fact: Life is directed by Robert B. Weide<br/>
   <br/>
 
 
-### Languages 🛠 
+<h3> Languages 🛠 <h3><br/>
+  
 [![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,python,html,css,androidstudio,spring,selenium)](https://skillicons.dev)<br/>
 
-### Development Frameworks and Libraries
+<h3> Development Frameworks and Libraries<h3><br/>
+  
 [![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,nodejs)](https://skillicons.dev)<br/>
 
-### Databases and Cloud Platforms 🛠 
+<h3> Databases and Cloud Platforms 🛠 <h3><br/>
+  
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)<br/>
 
-### IDEs and Tools
+<h3> IDEs and Tools<h3><br/>
+  
 [![My IDEs and Tools](https://skillicons.dev/icons?i=raspberrypi,androidstudio,idea,vscode,git,github,arduino,postman)](https://skillicons.dev)<br/>
 
-### Socials
+<h3> Socials
+  
 [![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)<br/>
----
+
 
 <br/>
 <h2> Github Statistics 📈</h2>
