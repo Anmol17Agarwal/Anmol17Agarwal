@@ -80,4 +80,8 @@ JSON             40 mins         ░░░░░░░░░░░░░░░�
 
 ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
 
+<p align="center">
+🚀🏆📅
+</p>
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
