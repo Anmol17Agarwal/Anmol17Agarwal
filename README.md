@@ -1,6 +1,6 @@
 <!--![Banner](Banner.png)
 <a href='https://vaibhavjaiswal.vercel.app/#/'>-->
-<h1 align="center">Hello World! I'm Anmol Agarwal</a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
+<h1 align="center">Hello World! I'm Anmol Agarwal </a><img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
 <h1 align="center">From India  </a><img src="https://github.com/Anmol17Agarwal/Anmol17Agarwal/blob/main/Indian%20Flag%20waving%20animation%20free%20download.gif" width="32"> </h1>
 <h3 align="center">Connect with me:</h3>
 <p align='center'>
@@ -62,18 +62,22 @@
 </a><br><br>
 
 <!--START_SECTION:waka-->
-<!--
-```txt
-From: 30 April 2023 - To: 29 June 2023
 
-Total Time: 132 hrs 23 mins
+txt
+From: 30 April 2023 - To: 23 August 2023
 
-TypeScript       128 hrs 11 mins ████████████████████████▒   96.82 %
+Total Time: 32 hrs 23 mins
+
+JavaScript       28 hrs 11 mins  ████████████████████████▒▒   96.82 %
+
 Markdown         1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JavaScript       47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-JSON             40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-.env file        33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-```-->
+
+TypScript        47 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+
+Java             40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+
+Python           33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+
 
 <!--END_SECTION:waka-->
 
@@ -84,7 +88,7 @@ JSON             40 mins         ░░░░░░░░░░░░░░░�
 
 
 <p align="center">
- ![Snake animation](https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-snake.svg)
+ ![Snake animation]()
 </p>
 
 <h3 align="center">
