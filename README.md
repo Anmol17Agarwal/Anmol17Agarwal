@@ -88,9 +88,8 @@
 ><br/>
  
 <p align="center">
- [![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 </p>
-
 
 <p align="center">
  ![Snake animation](https://github.com/Anmol17Agarwal/Anmol17Agarwal/blob/github_snake/Snake.md)
