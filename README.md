@@ -86,15 +86,18 @@
   33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 
 ><br/>
- 
+ <!--
 <p align="center">
 [![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 Currently Internal Server
-</p>
+</p>-->
 
 <p align="center">
- ![Snake animation](https://github.com/Anmol17Agarwal/Anmol17Agarwal/blob/github_snake/Snake.md)
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture></p>
 
 <h3 align="center">
 🚀🏆📅
