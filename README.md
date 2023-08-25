@@ -61,7 +61,7 @@
 </p><br/>
 
 
-<p align = left <h2>📆 From: 30 April 2023 - To: 25 August 2023 📆<h2>
+<p align = left <h2>📆 From: 30 April 2020 - To: 25 August 2023 📆<h2>
 
 <h2>🕑 Total Time 🕑 : 46 hrs 41 mins 🔥</h2> 
    <br/>
