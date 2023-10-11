@@ -61,26 +61,6 @@
 </p><br/>
 
 
-<p align = left <h2>📆 From: 30 April 2020 - To: 25 August 2023 📆<h2>
-
-<h2>🕑 Total Time 🕑 : 46 hrs 41 mins 🔥</h2> 
-   <br/>
-
-
-| Language      | Time     | Graph  | Percentage
-| :---        |    :----:   |          :---: | ---:
-| <h3>Java📔</h3>     | 28 hrs 11 mins          |██████████████▒▒▒▒▒▒▒▒▒▒▒▒▒| 48.08 %
-|  <h3>Kotlin📘</h3>   | 10 hr 14 mins       | ██████░░░░░░░░░░░░░░░░░░░░░      |24.65 %
-|<h3>JavaScript📕</h3>|1hr 47 mins |██░░░░░░░░░░░░░░░░░░░░░░░░░|09.51 %
-|<h3>HTML & CSS📓</h3>|2hrs & 40 mins|███░░░░░░░░░░░░░░░░░░░░░░░░ |11.50 %
-|<h3>Python📗</h3>|3hrs & 33 mins |█░░░░░░░░░░░░░░░░░░░░░░░░░░|06.21 %
-
- <!--
-<p align="center">
-[![](https://visitcount.itsvg.in/api?id=Anmol17Agarwal&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-Currently Internal Server
-</p>-->
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
