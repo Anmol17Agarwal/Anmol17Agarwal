@@ -1,7 +1,6 @@
 <!--![Banner](Banner.png)
 <a href='https://vaibhavjaiswal.vercel.app/#/'>-->
-<h1 align="center">Hello World! I'm Anmol Agarwal ♎ <img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
-<h1 align="center">From India 🕉️</h1>
+<h1 align="center">Hello World! I'm Anmol Agarwal <img src="https://files.aashutosh.dev/hey.gif" width="32"> </h1>
 <h3 align="center">Connect with me:</h3><br></br>
 <p align='center'>
 <a href="https://www.linkedin.com/in/anmol-agarwal-b92204189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" />
@@ -16,7 +15,7 @@
 
 <h4> I'm a Software Engineer and Engineering Student  
 
-- <h4>👨‍💻 I’m currently working on Web Scraping, Full Stack Development and Industrial Internet of Things.<br/>
+- <h4>👨‍💻 I’m currently working on Full Stack Development using MERN/Java and Industrial Internet of Things.<br/>
 - <h4>📚 I’m currently learning everything about Python and Nodejs and DevOps.<br/>
 - #### 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/anmol-agarwal-b92204189/)<br/>
 - <h4>💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.<br/>
@@ -26,11 +25,7 @@
 
 <h3> Languages 🛠 <h3><br/>
   
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,python,html,css,androidstudio,spring,selenium)](https://skillicons.dev)<br/>
-
-<h3> Development Frameworks and Libraries<h3><br/>
-  
-[![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,nodejs)](https://skillicons.dev)<br/>
+[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,spring,selenium,html,css,javascript,react,nodejs,python)](https://skillicons.dev)<br/>
 
 <h3> Databases and Cloud Platforms 🛠 <h3><br/>
   
@@ -38,9 +33,9 @@
 
 <h3> IDEs and Tools<h3><br/>
   
-[![My IDEs and Tools](https://skillicons.dev/icons?i=raspberrypi,androidstudio,idea,vscode,git,github,arduino,postman)](https://skillicons.dev)<br/>
+[![My IDEs and Tools](https://skillicons.dev/icons?i=raspberrypi,androidstudio,idea,vscode,git,github,arduino,postman,docker)](https://skillicons.dev)<br/>
 
-<h3> Socials
+<h3> Socials<h3><br/>
   
 [![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord)](https://skillicons.dev)<br/>
 
@@ -60,13 +55,6 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Anmol17Agarwal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p><br/>
 
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture></p>
 
 <h3 align="center">
 🚀🏆📅
